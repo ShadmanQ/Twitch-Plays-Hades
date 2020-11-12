@@ -3,10 +3,10 @@ import pyautogui
 import pydirectinput
 SERVER = "irc.twitch.tv"
 PORT = 6667
-PASS = "oauth:kbqp5v0mq0i0yhthpdjokam7e42hwq"
+PASS = "OATH TOKEN"
 BOT = "HadesBot"
-CHANNEL = "silverlungs"
-OWNER = "silverlungs"
+CHANNEL = "USERNAME"
+OWNER = "OWNER"
 
 irc = socket.socket()
 
